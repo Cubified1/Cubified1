@@ -5,13 +5,17 @@
 
 <p> The sound of making your own tools/programs is something that sounds nice to me, as I can create something that will help me or be able to edit something to fit my needs. </p>
 
-<p> and 1 thing I would let you guys know is that I LOVE the movie "All about Lily Chou Chou"</p>
+<p>I'm going to be trying my hardest and pushing myself and creating QOL things for myself and other people.</p>
 
 
 
 
-## Languages
+
+
+
+# Languages
 
 <p align="center">
 
 <img src="https://marcelk.dev/Python.svg" height="100" style="padding: 25;"/>
+
