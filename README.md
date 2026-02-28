@@ -19,3 +19,7 @@
 
 <img src="https://marcelk.dev/Python.svg" height="100" style="padding: 25;"/>
 
+
+# What I'm listening to
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jjqmdrwvt6mqhnqnxs3vwff3zm&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31jjqmdrwvt6mqhnqnxs3vwff3zm&redirect=true)
